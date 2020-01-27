@@ -1,0 +1,13 @@
+# Gradle
+.gradle
+/build/
+/*/build/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+*.uml
+JavaKotlinExperiments/.idea/
+/out/
+/*/out/
